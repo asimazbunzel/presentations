@@ -54,7 +54,7 @@ class: middle
 background-color: white
 
 .boxtitle3[
-# **Differences: single vs binary**
+# **Differences: single vs binary. Composition**
 ]
 
 #### .center[Comparison between **similar** core mass progenitors $\\rightarrow$ would produce **similar** compact objects]
@@ -95,7 +95,7 @@ class: middle
 background-color: white
 
 .boxtitle3[
-# **Differences: single vs binary. Density profiles**
+# **Differences: single vs binary. Shell burning**
 ]
 
 .center[
@@ -108,12 +108,14 @@ class: middle
 background-color: white
 
 .boxtitle3[
-# **Differences: single vs binary. Density profiles**
+# **Differences: single vs binary. Compactness **
 ]
 
 .center[
+Defined as: $\\xi\_{M} = \dfrac{M}{R(M)}$, measured @ different (lagrangian) masses $M = 2.5, 3$
 <img src="images/fig14.svg" alt="fig14" height="500"/>
 ]
+
 
 [//]: # (summary)
 ---
