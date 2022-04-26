@@ -21,18 +21,23 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.85)), url(
 
 
 [//]: # (.abs-layout.p-m.top-31.left-0.width-100.oc-bg-white.center.white[)
-## .white[Idea]
+# .white[Idea]
 
 <hr>
 
 .rect.round-lg.border.line-2.width-93.dark.gray[
 
-a) Study progenitor properties and expected parameters distributions
+### a) Study progenitor properties and expected parameters distributions
+
 <br>
-b) Compare them to observations of the entire population of HMXBs<br>
-in the Galaxy (> 100 objects)
+
+### b) Compare them to observations of the entire population of HMXBs<br>
+### in the Galaxy (> 100 objects)
+
 <br>
-c) Use it to predict the evolution and prospects of GW detections
+
+### c) Use it to predict the evolution and prospects of GW detections
+
 <br>
 ]
 
@@ -140,8 +145,45 @@ background-image: url( images/binary-evolution-second-stages.svg )
 
 Sample the space of masses, periods and eccentricities with "initially" non-rotating stars
 
+<br><hr><hr><br>
+
+#### Companion masses (12): 10.00 - 150.00 (0.1 dex)
+
+<br>
+
+#### NS masses (3): 1.10 1.58 2.27
+
+<br>
+
+#### BH masses (6): 3.26 4.69 6.74 9.69 13.92 20.00
+
+<br>
+
+#### Orbital periods (13): 2.00 - 1000.00 (0.22 dex)
+
+<br>
+
+#### Eccentricities (10): 0.00 - 0.90 (steps of 0.1)
+
+<br>
+
+
 ]
 ]
+]
+
+
+
+[//]: # (single vs binary: differences)
+---
+class: top
+background-image: url( images/binary-evolution-second-stages.svg )
+
+.boxtitle3[
+## **Methods II: detailed models**
+]
+
+.abs-layout.p-m.top-20.left-15.width-30[
 
 <br>
 
