@@ -106,43 +106,6 @@ class: center nopadding middle split-30
 ]]
 ]
 
----
-class: center nopadding middle split-30
-
-.column_bt2[
-.pushfront.vmiddle[
-## .blue[Formation channel]
-<hr>
-### .gray[Uncertainties]
-]]
-
-.column_t2.pushfront[.vmiddle.nopadding[
-.boxtitle3.noborder[
-.center[.figplaint-maxh700.noborder[![]( images/sn-uncertainties-ii.svg )]]
-
-]
-
-]
-]]
-
----
-class: center nopadding middle split-30
-
-.column_bt2[
-.pushfront.vmiddle[
-## .blue[Formation channel]
-<hr>
-### .gray[Uncertainties]
-]]
-
-.column_t2.pushfront[.vmiddle.nopadding[
-.boxtitle3.noborder[
-.center[.figplaint-maxh700.noborder[![]( images/sn-uncertainties-iii.svg )]]
-
-]
-
-]
-]]
 
 ---
 class: center nopadding middle split-30
@@ -158,10 +121,8 @@ class: center nopadding middle split-30
 .boxtitle3.noborder[
 .center[.figplaint-maxh700.noborder[![]( images/tides.svg )]]
 
-]
-
-]
 ]]
+]
 
 
 ---
@@ -197,11 +158,8 @@ class: center nopadding middle split-30
 .boxtitle3.noborder[
 .center[.figplaint-maxh700.noborder[![]( images/modelling.svg )]]
 
-]
-
-]
 ]]
-
+]
 
 ---
 class: center nopadding middle split-30
@@ -218,9 +176,7 @@ class: center nopadding middle split-30
 .boxtitle3.noborder[
 .center[.figplaint-maxh700.noborder[![]( images/resultsIcaseAa.svg )]]
 
-]
-
-]
+]]
 ]
 
 
@@ -239,9 +195,7 @@ class: center nopadding middle split-30
 .boxtitle3.noborder[
 .center[.figplaint-maxh700.noborder[![]( images/resultsIcaseAb.svg )]]
 
-]
-
-]
+]]
 ]
 
 
@@ -260,52 +214,8 @@ class: center nopadding middle split-30
 .boxtitle3.noborder[
 .center[.figplaint-maxh700.noborder[![]( images/resultsIcaseBa.svg )]]
 
-]
-
-]
-]
-
-
----
-class: center nopadding middle split-30
-
-.column_bt2[
-.pushfront.vmiddle[
-## .blue[Results]
-<hr>
-### .gray[I. Mass-transfer after core Hydrogen depletion]
-### .gray[(Case B)]
 ]]
-
-.column_t2.pushfront[.vmiddle.nopadding[
-.boxtitle3.noborder[
-.center[.figplaint-maxh700.noborder[![]( images/resultsIcaseBb.svg )]]
-
 ]
-
-]
-]
-
-
----
-class: center, middle
-background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.85)), url( images/magnetar.jpg )
-
-
-[//]: # (.abs-layout.p-m.top-31.left-0.width-100.oc-bg-white.center.white[)
-# .blue[Different physical assumptions]
-
-<br>
-<hr>
-<br>
-
-### .bluelight[The contribution of the **Spruit-Tayler dynamo** to the AM transport is claimed to have]
-### .bluelight[an important role in shaping the different outcomes of massive binary evolution]
-### .bluelight[It is a way to efficiently redistribute the AM in the interior of a star, producing]
-### .bluelight[**slowly-rotating** compact objects]
-
-<br>
-<hr>
 
 
 ---
